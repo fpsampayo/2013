@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ponente | Geocamp ES]]></title>
+  <link href="http://fpsampayo.github.io/blog/categories/ponente/atom.xml" rel="self"/>
+  <link href="http://fpsampayo.github.io/"/>
+  <updated>2014-02-21T13:44:55+01:00</updated>
+  <id>http://fpsampayo.github.io/</id>
+  <author>
+    <name><![CDATA[Xeoinquedos]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Javier Arce (@Javier) De @Vizzuality Nos Acompañará en @geocampes]]></title>
+    <link href="http://fpsampayo.github.io/javier-arce-javier-de-vizzuality-nos-acompanara-en-geocampes/"/>
+    <updated>2013-06-21T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/javier-arce-javier-de-vizzuality-nos-acompanara-en-geocampes</id>
+    <content type="html"><![CDATA[<p><a href="><img class=/images/2013/06/javier_arce-300x200.jpg" width="300" height="200" /></a></p>
+
+<p>Un incorporación in extremis, la de Javier Arce de Vizzuality que vendrá a hablarnos de CartoDB.</p>
+
+<p>Javier Arce estudió Informática de Sistemas en la Universidad de León, y tras algunos años trabajando como freelance en Ámsterdam decidió unirse al equipo de Vizzuality para trabajar en proyectos de visualización de datos y ciencia ciudadana. Su otra pasión, además de escribir código, es la ilustración.</p>
+
+<p>Actualmente colabora en el desarrollo de CartoDB, una plataforma en la nube para visualizar y analizar datos geoespaciales desarrollada sobre un stack de tecnologías open source entre las que se encuentra PostGIS, a la que su empresa contribuye habitualmente.</p>
+
+<p>En su charla nos explicará el funcionamiento y las últimas novedades de CartoDB, así como algunos de los proyectos realizados con la ayuda de esta potente herramienta de análisis geospacial.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hardware Libre También en La Geocamp Gracias a Xulio Coira]]></title>
+    <link href="http://fpsampayo.github.io/hardware-libre-geocamp-xulio-coira/"/>
+    <updated>2013-06-21T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/hardware-libre-geocamp-xulio-coira</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/xulioc"><img src="/images/2013/06/xuliocoira-300x251.jpg" alt="Xulio Coira" width="300" height="251" class="aligncenter size-medium wp-image-395" /></a><br/>
+<a href="https://twitter.com/xulioc">Xulio Coira</a> es Ingeniero de Telecomunicaciones por la Universidad de Vigo y Máster en Software Libre por la Universidad Rey Juan Carlos. Trabaja como Business Technical Manager en Arteixo Telecom, desarrollando productos M2M para agricultura de precisión.</p>
+
+<p>Xulio no es uno de nuestros geoinquietos habituales pero es apasionado del OSHW (Hardware Libre) y de las oportunidades de innovación colaborativa que brinda esta nueva forma de entender la electrónica.</p>
+
+<p>Es uno de los fundadores del grupo de trabajo <a href="http://bricolabs.cc/">BricoLabs</a>, que actualmente reúne en Coruña a unas 30 personas todos los viernes para &#8220;cacharrear&#8221; con tecnologías libres.</p>
+
+<p>Lidera el proyecto <a href="http://openpipe.cc/">OpenPipe</a>, que pretende ser un recurso para creadores de instrumentos musicales electrónicos. Una gaita electrónica para Arduino, que da nombre al proyecto OpenPipe, le permite a Xulio combinar sus dos aficiones: la gaita y el open hardware.</p>
+
+<p>Viene a la geocamp a hablarnos de OSHW y su relación con la internet/web de las cosas y su posible aplicación en GIS.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hugo Santos (@ulmi), Organizador De Geocamp PT Estará Con Nosotros]]></title>
+    <link href="http://fpsampayo.github.io/hugo-santos-ulmi-organizador-de-geocamp-pt-estara-con-nosotros/"/>
+    <updated>2013-06-19T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/hugo-santos-ulmi-organizador-de-geocamp-pt-estara-con-nosotros</id>
+    <content type="html"><![CDATA[<p>Hugo Santos, uno de los organizadores del Geocamp PT, estará con nosotros compartiendo sus experiencias y hablándonos de FOSS. Este año fue la tercera edición del Geocamp organizado en Portugal, un año más de éxito, consiguiendo como siempre la mezcla perfecta entre buen ambiente, un lugar idílico y mucho contenido. Esperamos estar a la altura.</p>
+
+<p>Os dejamos una entrevista que le hicimos a todo el equipo durante el Geocamp PT 2013.</p>
+
+<p>Saludos.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ponente Confirmado: Juan Marín Otero (@OpenGeo)]]></title>
+    <link href="http://fpsampayo.github.io/ponente-confirmado-juan-marin-otero-opengeo/"/>
+    <updated>2013-05-17T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/ponente-confirmado-juan-marin-otero-opengeo</id>
+    <content type="html"><![CDATA[<p style="text-align: center;">
+   <a href="/images/2013/05/POR3252-Version-2.jpg"><img class="size-medium wp-image-215 aligncenter" alt="Juan Marín Otero" src="/images/2013/05/POR3252-Version-2-300x283.jpg" width="300" height="283" /></a>
+</p>
+
+
+<p><a title="Juan Marín Otero en Twitter" href="https://twitter.com/jmarinotero" target="_blank">Juan Marín Otero</a> es Ingeniero de Montes por la Universidad Politécnica de Madrid, y lleva más de una década desarrollando aplicaciones geográficas en los sectores de la energía, defensa, telecomunicaciones y medio ambiente, entre otros. Como arquitecto de sistemas, analista y desarrollador de software ha participado en proyectos de gran envergadura, integrando la variable geográfica con otros sistemas TIC. Con una larga experiencia utilizando tecnología ESRI, su interés por el software open source le ha llevado a dirigir su carrera en este ámbito, siendo committer del proyecto GeoServer y colaborando en la creación y difusión de otros proyectos libres de tecnología GIS. Desde el año 2008 vive en USA donde actualmente trabaja  como CTO (Chief Technology Officer &#8211; Director Técnico) de <a title="OpenGeo" href="http://opengeo.org/" target="_blank">OpenGeo</a>, el principal fabricante de software GIS libre, dirigiendo el desarrollo de productos (<a title="OpenGeo Suite" href="http://opengeo.org/products/suite/" target="_blank">OpenGeo Suite</a>) y tecnología (<a title="PostGIS" href="http://postgis.net/" target="_blank">PostGIS</a>, <a title="GeoServer" href="http://geoserver.org/" target="_blank">GeoServer</a>, <a title="OpenLayers" href="http://openlayers.org/" target="_blank">OpenLayers</a>) para dicha compañía. Juan es además aficionado a las motos Harley, la fotografía y practica Artes Marciales varias veces por semana.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Confirmado Ponente: Sergio Alvarez (@Vizzuality &#8211; @CartoDB)]]></title>
+    <link href="http://fpsampayo.github.io/confirmado-ponente-sergio-alvarez-vizzuality-cartodb/"/>
+    <updated>2013-05-02T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/confirmado-ponente-sergio-alvarez-vizzuality-cartodb</id>
+    <content type="html"><![CDATA[<p style="text-align: center;">
+  <a href="/images/2013/04/saleiva.jpg"><img class="wp-image-149 aligncenter" alt="Sergio_Alvarez_Leiva" src="/images/2013/04/saleiva-300x189.jpg" width="400" height="236" /></a>
+</p>
+
+
+<p><a href="https://twitter.com/saleiva">Sergio Álvarez Leiva</a> estudió Ingeniería Informática de Gestión  en la Universidad Rey Juan Carlos. Durante los últimos años de carrera, comenzó a trabajar como diseñador en distintas startups  y a interesarse cada vez más por la visualización de datos.</p>
+
+<p>En 2007 cofundó <a href="http://vizzuality.com/">Vizzuality</a> con Javier de la Torre, donde es director de diseño. Vizzuality ha trabajado para diferentes organizaciones internacionales como la NASA, WCMC o WRI, universidades de todo el mundo como la Universidad de Harvard y la Universidad de Oxford, y para grandes empresas como Google o RTVE. Hace apenas un año, Vizzuality lanzó <a href="http://cartodb.com/">CartoDB</a>, una plataforma en la nube para visualizar y analizar datos geoespaciales desarrollada sobre un stack de tecnologías  open source entre las que se encuentra PostGIS, a la que contribuyen habitualmente.</p>
+
+<p>Muy activo, participa en diferentes iniciativas relacionadas con Open Data y Diseño y vendrá a compartir con nosotros sus experiencias en el campo de la visualización y análisis de datos geoespaciales, y algunas de las conclusiones a las que ha llegado tras mas de dos años intentando revolucionar el mundo del GIS online</p>
+]]></content>
+  </entry>
+  
+</feed>

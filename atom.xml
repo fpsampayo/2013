@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Geocamp ES]]></title>
+  <link href="http://fpsampayo.github.io/atom.xml" rel="self"/>
+  <link href="http://fpsampayo.github.io/"/>
+  <updated>2014-02-21T13:44:55+01:00</updated>
+  <id>http://fpsampayo.github.io/</id>
+  <author>
+    <name><![CDATA[Xeoinquedos]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Fotos De La Primera Edición]]></title>
+    <link href="http://fpsampayo.github.io/fotos-de-la-primera-edicion/"/>
+    <updated>2013-08-26T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/fotos-de-la-primera-edicion</id>
+    <content type="html"><![CDATA[<p>Ya tenemos disponibles las fotos de la primera edición para que podáis recordar los momentos vividos.</p>
+
+<p>Las podéis encontrar dentro de la página de <a href="http://geocamp.es/fotos/">Fotos</a> o directamente en este <a href="https://www.dropbox.com/sc/c1xlav2tfoc58os/5B32qE2kWH">enlace</a>.</p>
+
+<p>Muchas gracias a nuestros improvisados fotógrafos: <a href="https://twitter.com/jmarinotero">Juan Marín</a> y <a href="http://twitter.com/psanxiao">psanxiao</a></p>
+
+<p>Que las disfrutéis!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Javier Arce (@Javier) De @Vizzuality Nos Acompañará en @geocampes]]></title>
+    <link href="http://fpsampayo.github.io/javier-arce-javier-de-vizzuality-nos-acompanara-en-geocampes/"/>
+    <updated>2013-06-21T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/javier-arce-javier-de-vizzuality-nos-acompanara-en-geocampes</id>
+    <content type="html"><![CDATA[<p><a href="http://fpsampayo.github.io/images/2013/06/javier_arce.jpg"><img class="aligncenter size-medium wp-image-405" alt="Javier Arce" src="http://fpsampayo.github.io/images/2013/06/javier_arce-300x200.jpg" width="300" height="200" /></a></p>
+
+<p>Un incorporación in extremis, la de Javier Arce de Vizzuality que vendrá a hablarnos de CartoDB.</p>
+
+<p>Javier Arce estudió Informática de Sistemas en la Universidad de León, y tras algunos años trabajando como freelance en Ámsterdam decidió unirse al equipo de Vizzuality para trabajar en proyectos de visualización de datos y ciencia ciudadana. Su otra pasión, además de escribir código, es la ilustración.</p>
+
+<p>Actualmente colabora en el desarrollo de CartoDB, una plataforma en la nube para visualizar y analizar datos geoespaciales desarrollada sobre un stack de tecnologías open source entre las que se encuentra PostGIS, a la que su empresa contribuye habitualmente.</p>
+
+<p>En su charla nos explicará el funcionamiento y las últimas novedades de CartoDB, así como algunos de los proyectos realizados con la ayuda de esta potente herramienta de análisis geospacial.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hardware Libre También en La Geocamp Gracias a Xulio Coira]]></title>
+    <link href="http://fpsampayo.github.io/hardware-libre-geocamp-xulio-coira/"/>
+    <updated>2013-06-21T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/hardware-libre-geocamp-xulio-coira</id>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/xulioc"><img src="http://fpsampayo.github.io/images/2013/06/xuliocoira-300x251.jpg" alt="Xulio Coira" width="300" height="251" class="aligncenter size-medium wp-image-395" /></a><br/>
+<a href="https://twitter.com/xulioc">Xulio Coira</a> es Ingeniero de Telecomunicaciones por la Universidad de Vigo y Máster en Software Libre por la Universidad Rey Juan Carlos. Trabaja como Business Technical Manager en Arteixo Telecom, desarrollando productos M2M para agricultura de precisión.</p>
+
+<p>Xulio no es uno de nuestros geoinquietos habituales pero es apasionado del OSHW (Hardware Libre) y de las oportunidades de innovación colaborativa que brinda esta nueva forma de entender la electrónica.</p>
+
+<p>Es uno de los fundadores del grupo de trabajo <a href="http://bricolabs.cc/">BricoLabs</a>, que actualmente reúne en Coruña a unas 30 personas todos los viernes para &#8220;cacharrear&#8221; con tecnologías libres.</p>
+
+<p>Lidera el proyecto <a href="http://openpipe.cc/">OpenPipe</a>, que pretende ser un recurso para creadores de instrumentos musicales electrónicos. Una gaita electrónica para Arduino, que da nombre al proyecto OpenPipe, le permite a Xulio combinar sus dos aficiones: la gaita y el open hardware.</p>
+
+<p>Viene a la geocamp a hablarnos de OSHW y su relación con la internet/web de las cosas y su posible aplicación en GIS.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[@Vizzuality &#8211; @CartoDB Nuevo Patrocinador]]></title>
+    <link href="http://fpsampayo.github.io/vizzuality-cartodb-nuevo-patrocinador/"/>
+    <updated>2013-06-20T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/vizzuality-cartodb-nuevo-patrocinador</id>
+    <content type="html"><![CDATA[<p><a href="http://fpsampayo.github.io/images/2013/06/logos_full_cartodb_light.png"><img class="aligncenter size-medium wp-image-366" alt="Logo CartoDB" src="http://fpsampayo.github.io/images/2013/06/logos_full_cartodb_light-300x150.png" width="300" height="150" /></a></p>
+
+<p><a title="Vizzuality" href="http://vizzuality.com/" target="_blank">Vizzuality</a>, empresa especializada en visualización, creadora de <a title="CartoDB" href="http://cartodb.com/" target="_blank">CartoDB</a>, es nuestra última incorporación como patrocinador. Os recomendamos que, si no lo habéis hecho ya, os acerquéis a su web y conozcáis la cantidad de proyectos interesantes en los que participan.</p>
+
+<p>¡Muchas gracias!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Instrucciones Para Disfrutar Del @geocampes]]></title>
+    <link href="http://fpsampayo.github.io/instrucciones-para-disfrutar-del-geocampes/"/>
+    <updated>2013-06-20T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/instrucciones-para-disfrutar-del-geocampes</id>
+    <content type="html"><![CDATA[<p style="text-align: center;">
+  <img class="  aligncenter" alt="" src="http://i711.photobucket.com/albums/ww112/ozonebooks/esqure_ikea-1-1.jpg" width="397" height="506" />
+</p>
+
+
+<p>Buenas,</p>
+
+<p>se acerca el día, así que vamos a dejaros unas pequeñas indicaciones de como va a ser todo. Empezamos:</p>
+
+<p><strong>¿Donde es el evento?</strong></p>
+
+<p>Como ya sabéis el evento se realizará en la sala de conferencias de la Asociación de Vecinos de Bouzas, que tan amablemente nos han cedido. Os dejamos enlace de la <a title="OSM" href="http://www.openstreetmap.org/?mlat=42.225236&amp;mlon=-8.754247&amp;zoom=18&amp;layers=M" target="_blank">situación exacta</a>. Y otro <a title="GMaps" href="https://maps.google.es/maps?q=42.225238,-8.754323&amp;hl=es&amp;sll=42.226089,-8.725426&amp;sspn=0.089997,0.209255&amp;t=h&amp;z=16" target="_blank">más</a>.</p>
+
+<p><strong>¿A qué hora comienza el evento?</strong></p>
+
+<p>A las 9 de la mañana del sábado.</p>
+
+<p><strong>Voy a presentar, ¿qué tengo que hacer?</strong></p>
+
+<p>Se recomienda a la gente que tenga interés en presentar algo que intente llegar sobre las 9. La idea es comenzar a las 10 con las ponencias, pero antes hay que decidir cuales se van a presentar. Hay un numero fijo de espacios libres para presentar, unos 10.</p>
+
+<p><strong>¿A qué hora acabaremos?</strong></p>
+
+<p>La hora de finalización del evento es a las 19:40, pero después os tenemos preparada una sorpresita, y cada uno alargará la hora de retirada lo que le apetezca. Atención, os recordamos que una retirada a tiempo es siempre una victoria <img src='http://geocamp.es/wp-includes/images/smilies/icon_biggrin.gif' alt=':-D' class='wp-smiley' /></p>
+
+<p><strong>Es mi primera vez en Vigo, ¿qué hago?</strong></p>
+
+<p>Ya se están organizando actos de confraternización entre la gente que llega el viernes y para los que se quedan el domingo. Estad pendientes del <a title="@geomcapes" href="https://twitter.com/geocampes" target="_blank">Twitter del evento</a> para saber donde estará la gente en cada momento. No seáis tímidos, somos gente maja.</p>
+
+<p><strong>Soy el típico trol, ¿cómo me hago notar?</strong></p>
+
+<p>El hashtag del evento es <a title="#geomcapes" href="https://twitter.com/search?q=%23geocampes" target="_blank">#geocampes</a> (lo sabemos, somos muy originales). Avisamos, el nivel de troleo va a ser alto, así que sed ocurrentes o seréis carnaza&#8230;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hugo Santos (@ulmi), Organizador De Geocamp PT Estará Con Nosotros]]></title>
+    <link href="http://fpsampayo.github.io/hugo-santos-ulmi-organizador-de-geocamp-pt-estara-con-nosotros/"/>
+    <updated>2013-06-19T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/hugo-santos-ulmi-organizador-de-geocamp-pt-estara-con-nosotros</id>
+    <content type="html"><![CDATA[<p>Hugo Santos, uno de los organizadores del Geocamp PT, estará con nosotros compartiendo sus experiencias y hablándonos de FOSS. Este año fue la tercera edición del Geocamp organizado en Portugal, un año más de éxito, consiguiendo como siempre la mezcla perfecta entre buen ambiente, un lugar idílico y mucho contenido. Esperamos estar a la altura.</p>
+
+<p>Os dejamos una entrevista que le hicimos a todo el equipo durante el Geocamp PT 2013.</p>
+
+<p>Saludos.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Instituto De Estudios Do Territorio, Patrocinador De GeocampES]]></title>
+    <link href="http://fpsampayo.github.io/el-instituto-de-estudios-do-territorio-patrocinador-de-geocampes/"/>
+    <updated>2013-06-18T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/el-instituto-de-estudios-do-territorio-patrocinador-de-geocampes</id>
+    <content type="html"><![CDATA[<p><a href="http://fpsampayo.github.io/images/2013/01/logo_ie_small.bmp"><img src="http://fpsampayo.github.io/images/2013/01/logo_ie_small.bmp" alt="IET" class="aligncenter size-medium wp-image-340" /></a></p>
+
+<p>El <a title="IET" href="http://sitga.xunta.es/sitganet/" target="_blank">Instituto de Estudos do Territorio (IET)</a>, organismo principal de la Xunta para la gestión de la información geográfica, se incorpora como patrocinador del Geocamp ES. El IET es el encargado de gestionar la Infraestructura de Datos Espaciales (IDE) de Galicia. También gestiona proyectos como el <a title="POL" href="http://sitga.xunta.es/sitganet/catalogo/inicio.html?lang=gl" target="_blank">Plan de Ordenación Litoral</a>, la <a title="DHGC" href="http://visorgis.cmati.xunta.es/dhgc/" target="_blank">IDE Demarcación Hidrográfica Galicia Costa</a> o del<a title="CDIX" href="http://visorgis.cmati.xunta.es/cdix/mapa.html" target="_blank"> Centro de Descargas de Información Geográfica</a>.<br/>
+Podremos contar con la presencia de algunos de sus miembros que seguro compartirán con nosotros sus experiencias.</p>
+
+<p>¡Muchas gracias!.</p>
+
+<p><a href="http://fpsampayo.github.io/images/2013/06/image001.png"><img class="aligncenter size-full wp-image-323" alt="IET" src="http://fpsampayo.github.io/images/2013/06/image001.png" width="230" height="48" /></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cartolab Se Suma a Nuestros Patrocinadores]]></title>
+    <link href="http://fpsampayo.github.io/cartolab-se-suma-a-nuestros-patrocinadores/"/>
+    <updated>2013-06-18T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/cartolab-se-suma-a-nuestros-patrocinadores</id>
+    <content type="html"><![CDATA[<p><a href="http://cartolab.udc.es"><img class="aligncenter size-full wp-image-347" alt="Cartolab" src="http://fpsampayo.github.io/images/2013/06/logo_cartolab.png" width="296" height="188" /></a><br/>
+Cartolab (el Laboratorio de Cartografía de la Universidad de A Coruña) se une al grupo de entidades patrocinadoras de la geocamp.</p>
+
+<p>CartoLab emplea los Sistemas de Información Geográfica (SIG) para conseguir una<br/>
+planificación y gestión más eficaz de las infraestructuras, los servicios, los recursos y los espacios territoriales. Desarrolla e implementa metodologías y aplicaciones para la captura, tratamiento, análisis y representación de datos geoespaciales, que se ponen en práctica en proyectos de I+D+i, así como mediante trabajos de colaboración con organismos públicos y privados.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[¡Último Aviso Para @geocampes!]]></title>
+    <link href="http://fpsampayo.github.io/ultimo-aviso-para-geocampes/"/>
+    <updated>2013-06-17T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/ultimo-aviso-para-geocampes</id>
+    <content type="html"><![CDATA[<p>Como sabéis, este sábado 22 de Junio se celebrará Geocamp ES en Bouzas, Vigo. Desde la organización estamos trabajando duro para poder ofreceros la mejor experiencia posible. Por eso escribimos este post pidiendo que si vas a venir te apuntes cuanto antes, ya que nos ayudará mucho para preparar el catering de la comida y cafés, como para preparar los materiales y sorpresas que tenemos en mente.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sixtema También Nos Patrocina.]]></title>
+    <link href="http://fpsampayo.github.io/sixtema-tambien-nos-patrocina/"/>
+    <updated>2013-06-14T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/sixtema-tambien-nos-patrocina</id>
+    <content type="html"><![CDATA[<p><a href="http://fpsampayo.github.io/images/2013/06/Sixtema-portadas.gif"><img class="aligncenter size-medium wp-image-276" alt="Sixtema" src="http://fpsampayo.github.io/images/2013/06/Sixtema-portadas-300x207.gif" width="300" height="207" /></a></p>
+
+<p>&nbsp;</p>
+
+<p><a title="Sixtema" href="http://www.sixtema.es" target="_blank">Sixtema</a>, empresa con gran experiencia en Sistemas de Información Geográfica se convierte en patrocinador del Geocamp ES.</p>
+
+<p>Sixtema es una empresa con una amplia cartera de servicios, especialistas en Smart Geo, Bussines Intelligence, Infraestructuras de datos Espaciales, entre otras cosas. Son los creadores de herramientas ampliamente extendidas como <a title="ikiMap" href="http://ikimap.com" target="_blank">ikiMap</a>, plataforma para compartir información geográfica. Podéis visitar su <a title="Sixtema" href="http://www.sixtema.es" target="_blank">web</a> para conocerles un poco más.</p>
+
+<p>¡Muchas gracias!.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Innoto, Patrocinadores Del Geocamp ES]]></title>
+    <link href="http://fpsampayo.github.io/innoto-patrocinadores-del-geocamp-es/"/>
+    <updated>2013-06-14T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/innoto-patrocinadores-del-geocamp-es</id>
+    <content type="html"><![CDATA[<p style="text-align: center;">
+  <a href="http://innoto.es"><img class="size-medium wp-image-267 aligncenter" alt="Innoto" src="http://fpsampayo.github.io/images/2013/06/LogoInnoto-300x122.jpg" width="300" height="122" /></a>
+</p>
+
+
+
+
+<p style="text-align: center;">
+  <p style="text-align: left;">
+    <a title="Innoto" href="http://innoto.es" target="_blank">Innoto</a> empresa orientada a la gestión para el desarrollo social se ha convertido en nuevo patrocinador del Geocamp ES. En Innoto pueden ayudarte si quieres que la <a><b>participación</b></a> se convierta en un signo distintivo de tus actividades, mejorar la <a><b>gestión</b></a>, dejar paso a la opinión ciudadana y crear nuevas plataformas interactivas para la <a><b>divulgación del conocimiento</b></a> son algunos de los objetivos de esta empresa con gran experiencia en la gestión de la participación ciudadana. Puedes visitar su <a title="Innoto" href="http://innoto.es" target="_blank">web</a> para conocerlos un poco más.
+  </p>
+</p>
+
+
+<p>  <p style="text-align: left;"></p>
+
+<pre><code>¡Muchas gracias!.
+</code></pre>
+
+<p>  </p></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Asesoría Debe Haber Asociaciones, Patrocina Geocamp ES]]></title>
+    <link href="http://fpsampayo.github.io/debe-haber-asociaciones-empresa-social-patrocina-geocamp-es/"/>
+    <updated>2013-06-14T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/debe-haber-asociaciones-empresa-social-patrocina-geocamp-es</id>
+    <content type="html"><![CDATA[<p><a href="http://www.debehaberasociaciones.com"><img class="aligncenter" alt="" src="http://www.debehaberasociaciones.com/images/stories/dha_logo.png" /></a></p>
+
+<p><a title="DHA" href="http://www.debehaberasociaciones.com/" target="_blank">Debe Haber Asociaciones</a> (DHA) se une al grupo de patrocinadores. DHA es una empresa formada por un equipo de profesionales pertenecientes al Colegio de Economistas, con experiencia en servicios profesionales de contabilidad, fiscal y laboral, especializados en Entidades no Lucrativas (ENL´s) en particular. Especializados en contabilidad, fiscal y laboral para Asociaciones y Fundaciones, es su mejor carta de presentación. Están actualizados para dar un servicio adaptado a las novedades normativas. En su <a title="Conoce DHA" href="http://www.debehaberasociaciones.com/conocenos" target="_blank">web</a> encontrarás mucha más información sobre sus servicios y sus valores, no dejes de visitarla.</p>
+
+<p>¡Muchas gracias!.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[iCarto, Nuevo Patrocinador]]></title>
+    <link href="http://fpsampayo.github.io/icarto-nuevo-patrocinador/"/>
+    <updated>2013-06-10T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/icarto-nuevo-patrocinador</id>
+    <content type="html"><![CDATA[<p style="text-align: justify;">
+  <a href="http://www.icarto.es">iCarto</a>, empresa especializada en el uso y desarrollo de sistemas de información geográfica se convierte en patrocinador de la Geocamp ES, sufragando parte de los gastos de la comida de todos los asistentes.
+</p>
+
+
+
+
+<p style="text-align: justify;">
+  iCarto tiene como objetivo el desarrollo y la aplicación de Tecnologías de Información Geográfica en el ámbito de la ingeniería civil y la cooperación al desarrollo, fomentando la innovación, potenciando el uso de software libre y aumentando las capacidades de análisis geoespacial y la eficacia en la gestión de infraestructuras y servicios territoriales.
+</p>
+
+
+
+
+<p style="text-align: justify;">
+  Es una empresa joven, de caracter muy social y con una organización horizontal y asamblearia, con una clara vocación por la colaboración y la búsqueda de sinergias.
+</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nuevo Patrocinador: Asociación gvSIG]]></title>
+    <link href="http://fpsampayo.github.io/nuevo-patrocinador-asociacion-gvsig/"/>
+    <updated>2013-06-06T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/nuevo-patrocinador-asociacion-gvsig</id>
+    <content type="html"><![CDATA[<p style="text-align: justify;">
+  La <a href="http://www.gvsig.com">Asociación gvSIG </a>se convierte en nuevo patrocinador del evento, colaborando en los gastos del mismo.
+</p>
+
+
+
+
+<p style="text-align: justify;">
+  Como asociación que tiene por objetivo la sostenibilidad del proyecto gvSIG y el desarrollo de la geomática libre, y que defiende un modelo basado en la colaboración y en compartir el conocimiento no ha querido perder la oportunidad de colaborar con una iniciativa como la Geocamp ES.
+</p>
+
+
+
+
+<p style="text-align: justify;">
+  La Asociación gvSIG aglutina empresas punteras en el mundo de las tecnologías de la información geográfica, teniendo a su servicio expertos en diferentes materias capaces de ofrecer cualquier tipo de solución en el mundo de la geomática.
+</p>
+
+
+
+
+<p style="text-align: justify;">
+  Como entidad preocupada por el desarrollo de la geomática libre, ofrece además, a través de su plataforma <a href="http://www.gvsig-training.com/training/">gvSIG Training</a>, multitud de cursos sobre tecnologías FLOSS y un completo sistema de certificaciones oficiales.
+</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Patrocinadores, Inscripciones, Ponentes&#8230;]]></title>
+    <link href="http://fpsampayo.github.io/patrocinadores-inscripciones-ponentes/"/>
+    <updated>2013-06-04T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/patrocinadores-inscripciones-ponentes</id>
+    <content type="html"><![CDATA[<p>Hola a todos,</p>
+
+<p>se va acercando el día, y se van cerrando los temas.</p>
+
+<p>A lo largo de estas semanas que quedan os iremos presentado el resto de ponentes que tenemos confirmados, de momento puedes ver los que vienen <a title="Ponentes Geocamp" href="http://geocamp.es/tag/ponente-2/" target="_blank">aquí</a>. Las inscripciones siguen creciendo, recordad que hay aforo limitado, no te quedes sin sitio, regístrate <a title="Registro Geocamp ES" href="http://geocampes.eventbrite.es/?ref=ecount" target="_blank">aquí</a>. Respecto a los <a title="Patrocinadores" href="http://geocamp.es/patrocinia-geomcap-es/" target="_blank">patrocinadores</a>, también se van animando y estamos terminando de cerrarlos. Agradecemos a estos el esfuerzo que hacen para que podamos sacar adelante el Geocamp.</p>
+
+<p>Saludos y nos vemos pronto.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nuevo Patrocinador: Nevian Sistemas]]></title>
+    <link href="http://fpsampayo.github.io/nuevo-patrocinador-nevian-sistemas/"/>
+    <updated>2013-06-03T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/nuevo-patrocinador-nevian-sistemas</id>
+    <content type="html"><![CDATA[<p><a href="http://nevian.es"><br/>
+<img class="size-full wp-image-226 aligncenter" alt="logo_nevian" src="http://fpsampayo.github.io/images/2013/06/logo_2012.png" width="175" height="37" /></a></p>
+
+<p>Nevian es una empresa que provee soluciones IT para empresas. Apoyándose en tecnologías de código abierto y en metodologías ágiles, en Nevian diseñan e implementan soluciones a la medida de las necesidades de sus clientes.<br/>
+Desarrollan proyectos de software e implementan soluciones de virtualización de servidores basadas en Linux/KVM.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ponente Confirmado: Juan Marín Otero (@OpenGeo)]]></title>
+    <link href="http://fpsampayo.github.io/ponente-confirmado-juan-marin-otero-opengeo/"/>
+    <updated>2013-05-17T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/ponente-confirmado-juan-marin-otero-opengeo</id>
+    <content type="html"><![CDATA[<p style="text-align: center;">
+   <a href="http://fpsampayo.github.io/images/2013/05/POR3252-Version-2.jpg"><img class="size-medium wp-image-215 aligncenter" alt="Juan Marín Otero" src="http://fpsampayo.github.io/images/2013/05/POR3252-Version-2-300x283.jpg" width="300" height="283" /></a>
+</p>
+
+
+<p><a title="Juan Marín Otero en Twitter" href="https://twitter.com/jmarinotero" target="_blank">Juan Marín Otero</a> es Ingeniero de Montes por la Universidad Politécnica de Madrid, y lleva más de una década desarrollando aplicaciones geográficas en los sectores de la energía, defensa, telecomunicaciones y medio ambiente, entre otros. Como arquitecto de sistemas, analista y desarrollador de software ha participado en proyectos de gran envergadura, integrando la variable geográfica con otros sistemas TIC. Con una larga experiencia utilizando tecnología ESRI, su interés por el software open source le ha llevado a dirigir su carrera en este ámbito, siendo committer del proyecto GeoServer y colaborando en la creación y difusión de otros proyectos libres de tecnología GIS. Desde el año 2008 vive en USA donde actualmente trabaja  como CTO (Chief Technology Officer &#8211; Director Técnico) de <a title="OpenGeo" href="http://opengeo.org/" target="_blank">OpenGeo</a>, el principal fabricante de software GIS libre, dirigiendo el desarrollo de productos (<a title="OpenGeo Suite" href="http://opengeo.org/products/suite/" target="_blank">OpenGeo Suite</a>) y tecnología (<a title="PostGIS" href="http://postgis.net/" target="_blank">PostGIS</a>, <a title="GeoServer" href="http://geoserver.org/" target="_blank">GeoServer</a>, <a title="OpenLayers" href="http://openlayers.org/" target="_blank">OpenLayers</a>) para dicha compañía. Juan es además aficionado a las motos Harley, la fotografía y practica Artes Marciales varias veces por semana.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Confirmado Ponente: Sergio Alvarez (@Vizzuality &#8211; @CartoDB)]]></title>
+    <link href="http://fpsampayo.github.io/confirmado-ponente-sergio-alvarez-vizzuality-cartodb/"/>
+    <updated>2013-05-02T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/confirmado-ponente-sergio-alvarez-vizzuality-cartodb</id>
+    <content type="html"><![CDATA[<p style="text-align: center;">
+  <a href="http://fpsampayo.github.io/images/2013/04/saleiva.jpg"><img class="wp-image-149 aligncenter" alt="Sergio_Alvarez_Leiva" src="http://fpsampayo.github.io/images/2013/04/saleiva-300x189.jpg" width="400" height="236" /></a>
+</p>
+
+
+<p><a href="https://twitter.com/saleiva">Sergio Álvarez Leiva</a> estudió Ingeniería Informática de Gestión  en la Universidad Rey Juan Carlos. Durante los últimos años de carrera, comenzó a trabajar como diseñador en distintas startups  y a interesarse cada vez más por la visualización de datos.</p>
+
+<p>En 2007 cofundó <a href="http://vizzuality.com/">Vizzuality</a> con Javier de la Torre, donde es director de diseño. Vizzuality ha trabajado para diferentes organizaciones internacionales como la NASA, WCMC o WRI, universidades de todo el mundo como la Universidad de Harvard y la Universidad de Oxford, y para grandes empresas como Google o RTVE. Hace apenas un año, Vizzuality lanzó <a href="http://cartodb.com/">CartoDB</a>, una plataforma en la nube para visualizar y analizar datos geoespaciales desarrollada sobre un stack de tecnologías  open source entre las que se encuentra PostGIS, a la que contribuyen habitualmente.</p>
+
+<p>Muy activo, participa en diferentes iniciativas relacionadas con Open Data y Diseño y vendrá a compartir con nosotros sus experiencias en el campo de la visualización y análisis de datos geoespaciales, y algunas de las conclusiones a las que ha llegado tras mas de dos años intentando revolucionar el mundo del GIS online</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Registro Abierto]]></title>
+    <link href="http://fpsampayo.github.io/registro-abierto/"/>
+    <updated>2013-04-25T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/registro-abierto</id>
+    <content type="html"><![CDATA[<p>La inscripción para Geocamp ES está disponible en nuestra página de <a href="http://geocamp.es/registro/" title="Registro">registro</a>.</p>
+
+<p>Este evento lo hacemos entre todos, así que, ¡No dudes en inscribirte y participar!</p>
+
+<p>Y recuerda que si quieres puedes presentar tu proyecto en Geocamp ES. Lo único que tienes que hacer es indicarlo cuando te registres.</p>
+
+<p>¡Nos vemos el 22 de Junio!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Preguntas Frecuentes Sobre Geocamp ES]]></title>
+    <link href="http://fpsampayo.github.io/preguntas-frecuentes-sobre-geocamp-es/"/>
+    <updated>2013-04-24T00:00:00+02:00</updated>
+    <id>http://fpsampayo.github.io/preguntas-frecuentes-sobre-geocamp-es</id>
+    <content type="html"><![CDATA[<p><strong>¿Qué es una desconferencia?</strong></p>
+
+<p>&#8220;Una <strong>desconferencia</strong>, también llamado <strong>No-Congreso</strong>, es una conferencia en la que los propios participantes y asistentes toman un papel más participativo y activo. El término ha sido aplicado, ya sea total o parcialmente, a un amplio rango de tipos de reuniones en las que se intenta evitar uno o más aspectos de una conferencia convencional, como pueden ser las charlas de larga duración, los precios de entrada desproporcionados o las presentaciones comerciales.&#8221; (Fuente: <a href="http://es.wikipedia.org/wiki/Desconferencia">Wikipedia</a>)</p>
+
+<p><strong>¿Qué puedo presentar?</strong></p>
+
+<p>Lo que quieras, solo recuerda que tu público será exigente. Huye de las presentaciones aburridas, excesivamente técnicas, llenas de datos y céntrate en el mensaje que quieras transmitir. Cualquier proyecto en el que hayas trabajado, estés trabajando o vayas a trabajar puede ser presentado. (<a href="http://es.slideshare.net/jessedee/roba-esta-presentacion">Roba esta presentación</a>)</p>
+
+<p><strong>¿Qué formato de presentación puedo usar?</strong></p>
+
+<p>El que quieras. Estilo <a href="http://www.pechakucha.org/">PecahKucha</a> o <a href="http://igniteshow.com/">Ignite</a>, sobredosis de PowerPoint, solo ten en cuenta que tienes un máximo de 20 minutos para hablar y que deberás dejar 5 minutos para las preguntas. No hay tiempo mínimo, si crees que puedes explicar tu proyecto en 5 minutos no hace falta que nos cuentes batallas en los otros 15.</p>
+
+<p><strong>¿Cuánto dura el evento?</strong></p>
+
+<p>La duración del evento es de un día completo, en sesiones de mañana y tarde.</p>
+
+<p><strong>¿Nos daréis de comer?</strong></p>
+
+<p>Y de beber, y habrá alguna sorpresa, por que en la vida no todo es trabajo.</p>
+
+<p><strong>¿Cuánto vale la inscripción?</strong></p>
+
+<p>0 €. Gracias a los patrocinadores el evento es gratuito para los asistentes.</p>
+
+<p><strong>¿Cómo puedo ayudar?</strong></p>
+
+<p>¡Viniendo!. Si quieres también puedes patrocinar el evento, tienes una guía de patrocinio a tu disposición. O puedes enviar la guía de patrocinio a aquellas personas que creas puedan estar interesadas en patrocinarnos. Y puedes difundir el evento, utiliza nuestras redes sociales para darnos a conocer.</p>
+
+<p><strong>¿Dónde puedo alojarme?</strong></p>
+
+<p>En breve pondremos a vuestra disposición una guía para ayudaros a decidir donde pasar el fin de semana.</p>
+
+<p><strong>¿Cómo llego al evento?</strong></p>
+
+<p>Bouzas es una villa cercana a Vigo. Si vienes desde muy lejos, puedes intentar volar hasta algunos de los aeropuertos cercanos, Peinador en Vigo, Lavacolla en Santiago de Compostela o Sà Carneiro en Oporto. Tenéis tren hasta Vigo-Guixar, o en autobus a la estación de autobuses de Vigo. Después tendréis que recurrir al transporte público, Vitrasa, para ver la linea que mejor os convenga. Según se acerque el evento incluiremos esta información en la guía de &#8220;¿Cómo llego?&#8221;</p>
+
+<p><strong>Y si ninguna de estas es mi pregunta frecuente, ¿dónde os la hago?</strong></p>
+
+<p>info at geocamp dot es</p>
+]]></content>
+  </entry>
+  
+</feed>
