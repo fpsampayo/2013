@@ -2,7 +2,6 @@
 title: Innoto, patrocinadores del Geocamp ES
 author: Micho Garcia
 layout: post
-permalink: /innoto-patrocinadores-del-geocamp-es/
 categories:
   - Patrocinador
 tags:

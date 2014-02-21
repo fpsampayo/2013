@@ -2,7 +2,6 @@
 title: Preguntas frecuentes sobre Geocamp ES
 author: Micho Garcia
 layout: post
-permalink: /preguntas-frecuentes-sobre-geocamp-es/
 categories:
   - Geocamp ES
 tags:

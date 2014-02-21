@@ -2,7 +2,6 @@
 title: Disponible la guía de patrocinio
 author: Pablo Sanxiao
 layout: post
-permalink: /disponible-la-guia-de-patrocinio/
 categories:
   - Geocamp ES
 tags:

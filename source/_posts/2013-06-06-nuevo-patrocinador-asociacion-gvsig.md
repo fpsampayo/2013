@@ -2,7 +2,6 @@
 title: 'Nuevo patrocinador: Asociación gvSIG'
 author: admin
 layout: post
-permalink: /nuevo-patrocinador-asociacion-gvsig/
 categories:
   - Patrocinador
 tags:

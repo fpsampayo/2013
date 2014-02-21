@@ -2,7 +2,6 @@
 title: El Instituto de Estudios do Territorio, patrocinador de GeocampES
 author: Micho Garcia
 layout: post
-permalink: /el-instituto-de-estudios-do-territorio-patrocinador-de-geocampes/
 categories:
   - Patrocinador
 tags:

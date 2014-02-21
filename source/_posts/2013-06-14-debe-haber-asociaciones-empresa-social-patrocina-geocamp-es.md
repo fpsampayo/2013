@@ -2,7 +2,6 @@
 title: Asesoría Debe Haber Asociaciones, patrocina Geocamp ES
 author: Micho Garcia
 layout: post
-permalink: /debe-haber-asociaciones-empresa-social-patrocina-geocamp-es/
 categories:
   - Patrocinador
 tags:

@@ -2,7 +2,6 @@
 title: '!Empezamos¡'
 author: Micho Garcia
 layout: post
-permalink: /empezamosya/
 categories:
   - Geocamp ES
 tags:

@@ -2,7 +2,6 @@
 title: Javier Arce (@Javier) de @Vizzuality nos acompañará en @geocampes
 author: Micho Garcia
 layout: post
-permalink: /javier-arce-javier-de-vizzuality-nos-acompanara-en-geocampes/
 categories:
   - Ponente
 tags:

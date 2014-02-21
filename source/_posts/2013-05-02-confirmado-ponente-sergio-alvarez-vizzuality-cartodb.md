@@ -2,7 +2,6 @@
 title: 'Confirmado ponente: Sergio Alvarez (@Vizzuality &#8211; @CartoDB)'
 author: Francisco Pérez Sampayo
 layout: post
-permalink: /confirmado-ponente-sergio-alvarez-vizzuality-cartodb/
 categories:
   - Ponente
 tags:

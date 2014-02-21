@@ -2,7 +2,6 @@
 title: Juan Elosua, primer inscrito a Geocamp ES
 author: Micho Garcia
 layout: post
-permalink: /juan-elosua-primer-inscrito-a-geocamp-es/
 categories:
   - Registro
 tags:

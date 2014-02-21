@@ -2,7 +2,6 @@
 title: '@Vizzuality &#8211; @CartoDB nuevo patrocinador'
 author: Micho Garcia
 layout: post
-permalink: /vizzuality-cartodb-nuevo-patrocinador/
 categories:
   - Patrocinador
 tags:

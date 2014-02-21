@@ -2,7 +2,6 @@
 title: 'Nuevo patrocinador: Nevian Sistemas'
 author: Francisco Pérez Sampayo
 layout: post
-permalink: /nuevo-patrocinador-nevian-sistemas/
 categories:
   - Patrocinador
 tags:

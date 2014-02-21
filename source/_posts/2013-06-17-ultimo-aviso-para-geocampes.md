@@ -2,7 +2,6 @@
 title: ¡Último aviso para @geocampes!
 author: Francisco Pérez Sampayo
 layout: post
-permalink: /ultimo-aviso-para-geocampes/
 categories:
   - Geocamp ES
   - Registro

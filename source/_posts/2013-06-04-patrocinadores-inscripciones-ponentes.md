@@ -2,7 +2,6 @@
 title: 'Patrocinadores, inscripciones, ponentes&#8230;'
 author: Micho Garcia
 layout: post
-permalink: /patrocinadores-inscripciones-ponentes/
 categories:
   - Geocamp ES
 tags:

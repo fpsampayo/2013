@@ -2,7 +2,6 @@
 title: Cartolab se suma a nuestros patrocinadores
 author: admin
 layout: post
-permalink: /cartolab-se-suma-a-nuestros-patrocinadores/
 categories:
   - Patrocinador
 tags:

@@ -2,7 +2,6 @@
 title: 'Ponente confirmado: Juan Marín Otero (@OpenGeo)'
 author: Micho Garcia
 layout: post
-permalink: /ponente-confirmado-juan-marin-otero-opengeo/
 categories:
   - Ponente
 tags:

@@ -2,7 +2,6 @@
 title: Hardware Libre también en la Geocamp gracias a Xulio Coira
 author: admin
 layout: post
-permalink: /hardware-libre-geocamp-xulio-coira/
 categories:
   - Ponente
 ---

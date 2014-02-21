@@ -2,7 +2,6 @@
 title: Sixtema también nos patrocina.
 author: Micho Garcia
 layout: post
-permalink: /sixtema-tambien-nos-patrocina/
 categories:
   - Patrocinador
 tags:

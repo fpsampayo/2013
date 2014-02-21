@@ -2,7 +2,6 @@
 title: Jorge Arevalo, primer ponente.
 author: Micho Garcia
 layout: post
-permalink: /jorge-arevalo-primer-ponente/
 categories:
   - Ponente
 tags:

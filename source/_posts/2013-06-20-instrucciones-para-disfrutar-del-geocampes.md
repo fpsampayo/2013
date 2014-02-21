@@ -2,7 +2,6 @@
 title: Instrucciones para disfrutar del @geocampes
 author: Micho Garcia
 layout: post
-permalink: /instrucciones-para-disfrutar-del-geocampes/
 categories:
   - Geocamp ES
 tags:

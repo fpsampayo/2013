@@ -2,7 +2,6 @@
 title: iCarto, nuevo patrocinador
 author: admin
 layout: post
-permalink: /icarto-nuevo-patrocinador/
 categories:
   - Patrocinador
 tags:

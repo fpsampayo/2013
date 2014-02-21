@@ -2,7 +2,6 @@
 title: Fotos de la primera edición
 author: admin
 layout: post
-permalink: /fotos-de-la-primera-edicion/
 categories:
   - Geocamp ES
 ---

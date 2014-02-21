@@ -2,7 +2,6 @@
 title: Registro abierto
 author: Francisco Pérez Sampayo
 layout: post
-permalink: /registro-abierto/
 categories:
   - Registro
 tags:

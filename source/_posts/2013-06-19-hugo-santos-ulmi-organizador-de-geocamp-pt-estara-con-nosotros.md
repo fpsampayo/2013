@@ -2,7 +2,6 @@
 title: Hugo Santos (@ulmi), organizador de Geocamp PT estará con nosotros
 author: Micho Garcia
 layout: post
-permalink: /hugo-santos-ulmi-organizador-de-geocamp-pt-estara-con-nosotros/
 categories:
   - Geocamp ES
   - Ponente
